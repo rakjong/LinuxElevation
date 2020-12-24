@@ -1,11 +1,7 @@
-# linux-kernel-exploits
+## Linux Elvation
+This project is for Linux Elvation
 
-### 简介
-linux-kernel-exploits
-
-***
-
-#### 漏洞列表
+#### Vulnerable list
 #### #CVE　　#Description　　#Kernels  
 - [CVE-2019-7304](./2019/CVE-2019-7304) [2.34.2ubuntu0.1 or 2.35.5+18.10.1]
 - [CVE-2019-13272](./2019/CVE-2019-13272) [Linux kernel before 5.1.17]
@@ -170,7 +166,7 @@ linux-kernel-exploits
 - [CVE-2004-0077](./2004/CVE-2004-0077)　　[mremap_pte]  
 (2.4.20, 2.2.24, 2.4.25, 2.4.26, 2.4.27)  
 
-### 工具
+### Auxiliary tools
 - [Linux_Exploit_Suggester](https://github.com/PenturaLabs/Linux_Exploit_Suggester)　[@PenturaLabs](https://github.com/PenturaLabs/Linux_Exploit_Suggester)  
 - [mzet-/linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester)  
 - [jondonas/linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2/blob/master/linux-exploit-suggester-2.pl)  
@@ -178,22 +174,15 @@ linux-kernel-exploits
 - [SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER)
 
 
-### 项目维护
+### Maintainer
 
 + **Al1ex**(<a href="https://github.com/Al1ex">@Al1ex</a>) 
 
 
-### 免责说明
-
-请勿用于非法的用途，否则造成的严重后果与本项目无关。
-
-### 参考链接
+### Referen
 
 - [Unix-Privilege-Escalation-Exploits-Pack](https://github.com/Kabot/Unix-Privilege-Escalation-Exploits-Pack/)
 - [A bunch of proof-of-concept exploits for the Linux kernel](https://github.com/xairy/kernel-exploits)  
 - [kernel-exploits](https://github.com/lucyoa/kernel-exploits)
 - [linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
-
-### 补充完善
-欢迎大家帮助补充完善~
 
